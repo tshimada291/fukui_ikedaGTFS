@@ -1,2 +1,4 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-2000020183822_jp,池田町,https://www.town.ikeda.fukui.jp/,Asia/Tokyo,ja,,,
+2000020183822_1,なかま号,https://www.town.ikeda.fukui.jp/kurashi/anzen/1375/p001255.html,Asia/Tokyo,ja,,,
+2210001011931_1,福鉄バス,https://www.fukutetsu.jp/,Asia/Tokyo,ja,,,
+8210001007536_1,京福バス,http://bus.keifuku.co.jp/,Asia/Tokyo,ja,,,

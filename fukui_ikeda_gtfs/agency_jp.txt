@@ -1,0 +1,4 @@
+agency_id,agency_official_name,agency_zip_number,agency_address,agency_president_pos,agency_president_name
+2000020183822_1,池田町,910-2512,福井県今立郡池田町稲荷35-4,,
+2210001011931_1,福井鉄道株式会社,915-0802,福井県越前市北府2丁目5番20号,,
+8210001007536_1,京福バス株式会社,910-0859,福井県福井市日之出5丁目3番30号,,
